@@ -13,12 +13,13 @@ This project recreates a dramatic system failure environment complete with:
 - Memory leak alerts
 - Decryption popups
 - Game Master configuration panel
+- F12 key to change the password and the data in the software
+- F11 key to go back to the login screen
+- rakesh68 is the defalut Password for desktop
 
 The goal is to provide a reusable interactive UI framework for story-driven cyber investigations.
 
 ---
-
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
