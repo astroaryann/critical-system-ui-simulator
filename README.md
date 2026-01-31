@@ -29,7 +29,7 @@ The goal is to provide a reusable interactive UI framework for story-driven cybe
 ![Login Screen](assets/screenshots/login_screen.png)
 
 ### System in Critical State
-![Desktop Critical](assets/screenshots/desktop_critical.png)
+![Desktop Critical](assets/screenshots/desktop_state.png)
 
 ### Secure Folder Unlock Panel
 ![Secure Folder](assets/screenshots/secure_folder.png)
