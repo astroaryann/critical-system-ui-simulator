@@ -20,16 +20,26 @@ The goal is to provide a reusable interactive UI framework for story-driven cybe
 
 ## 📸 Screenshots
 
-Located in `assets/screenshots/`:
+## 📸 Screenshots
 
-- Boot sequence error
-- Locked login screen
-- Desktop in critical state
-- Secure folder unlock panel
-- Game Master configuration window
-- Decrypted clue display
+### Boot Sequence Failure
+![Boot Error](assets/screenshots/boot_error.png)
 
----
+### Locked System Login
+![Login Screen](assets/screenshots/login_screen.png)
+
+### System in Critical State
+![Desktop Critical](assets/screenshots/desktop_critical.png)
+
+### Secure Folder Unlock Panel
+![Secure Folder](assets/screenshots/secure_folder.png)
+
+### Game Master Configuration Panel
+![GM Config](assets/screenshots/gm_config.png)
+
+### Decrypted Clue Window
+![Decrypted Data](assets/screenshots/decrypted_data.png)
+
 
 ## 🧠 Concept
 
