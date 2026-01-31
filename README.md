@@ -35,7 +35,7 @@ The goal is to provide a reusable interactive UI framework for story-driven cybe
 ![Secure Folder](assets/screenshots/secure_folder.png)
 
 ### Game Master Configuration Panel
-![GM Config](assets/screenshots/gm_config.png)
+![GM Config](assets/screenshots/config_panel.png)
 
 ### Decrypted Clue Window
 ![Decrypted Data](assets/screenshots/decrypted_data.png)
